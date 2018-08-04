@@ -1,0 +1,126 @@
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-style: italic;
+  }
+
+.propic {
+  border-radius: 25px;
+}
+
+.albums {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+.story {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.cd {
+  margin: 10px;
+}
+
+.pic {
+  float: right;
+  padding: 6px;
+}
+
+.link {
+  color: black;
+}
+.preface {
+  text-align: center;
+}
+
+p {
+  font-family: calibri;
+  text-align: center;
+}
+
+a {
+  list-style-type: none;
+}
+
+.li {
+  margin: 10px;
+}
+
+h3 {
+  margin-left: 5px;
+}
+
+.block {
+  background-color: #e0e0e0;
+  border-radius: 30px;
+}
+.header {
+  background-color: white;
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
+.image {
+  margin-left: 5px;
+  padding-top: 5px;
+}
+
+.footer {
+  text-align: right;
+  background-color: white;
+  margin-right: 20px;
+}
+
+.media {
+  float: right;
+}
+
+.interests {
+  border-bottom: 2px solid black;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.fa {
+   padding: 10px;
+   font-size: 60px;
+   width: 50px;
+   text-align: center;
+   text-decoration: none;
+   margin-top: 10px;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+.fa-spotify {
+  color: black;
+}
+
+.fa-facebook {
+  color: black;
+}
+
+.fa-linkedin {
+  color: black;
+}
+
+.li-coding {
+  font-size: 10px;
+}
+
+.copyright {
+  max-height: 20px;
+  max-width: 20px;
+  float: right;
+  margin-bottom: 10px;
+}
